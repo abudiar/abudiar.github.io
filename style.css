@@ -15,6 +15,14 @@ body {
 
 .page h1 {
     text-align: center;
+    color: darkred;
+    font-family: 'Raleway', sans-serif;
+    padding-top: 50px;
+}
+
+.page h3 {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
 }
 
 .page {
@@ -48,29 +56,25 @@ body {
 }
 
 #top {
-    background-color: red;
+    background-color: black;
 }
 
-#profile {
-    background-color: blue;
+#about {
+    background-color: white;
 }
 
-#experience {
-    background-color: green;
-}
-
-#projects {
-    background-color: yellow;
+#experiences {
+    background-color: wheat;
 }
 
 #skills {
-    background-color: purple;
+    background-color: white;
 }
 
-#education {
-    background-color: cyan;
+#projects {
+    background-color: wheat;
 }
 
 #contact {
-    background-color: violet;
+    background-color: darkgray;
 }
